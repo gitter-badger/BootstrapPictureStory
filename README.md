@@ -1,6 +1,8 @@
 Bootstrap Picture Story
 =====================
 
+[![Join the chat at https://gitter.im/erichilarysmithsr/BootstrapPictureStory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erichilarysmithsr/BootstrapPictureStory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bootstrap theme for photo layouts. For use in photojournalism classes.
 
 ##Images
